@@ -12,3 +12,5 @@ Micro, Small, and Medium Enterprises (MSMEs) frequently face difficulties access
 
    - ```npm install```
    - ```npm install axios react-markdown remark-gfm```
+   - ```pip install Flask flask-cors python-dotenv requests openai markdown pdfkit```
+   - For windows click the link: [wkhtmltopdf installer](https://wkhtmltopdf.org/downloads.html) or ```sudo apt-get install wkhtmltopdf```
