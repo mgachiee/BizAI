@@ -24,3 +24,34 @@ This prototype does not collect any personal data from the users. However, durin
 - __Security:__ Since this is a prototype, security measures such as encryption or secure transaction processing are not implemented. This app is intended solely for demonstration and educational purposes.
 
 Feel free to check its [LICENSE](https://github.com/mgachiee/BizAI/blob/main/LICENSE) under [MIT License](https://choosealicense.com/licenses/mit/).
+
+## Acknowledgements
+
+We would like to express our gratitude to the following individuals, libraries, and resources for their contributions and support during the development of this prototype bank app:
+
+### Libraries and Tools:
+
+- Flask – A lightweight web framework for Python used to build this app.
+- React – A JavaScript library for building user interfaces that was used in the frontend of this app.
+- OpenAI – Used for generating AI-driven responses and interactions within the app.
+- Python-dotenv – A Python library for managing environment variables used to configure the app securely.
+- PDFKit – A tool for generating PDF reports and documents in the app.
+
+### Services and Platforms
+- Azure Services – Used for cloud hosting, AI models, and other services essential for the app’s backend, such as Azure OpenAI and Azure Cognitive Services.
+- Hugging Face – Used for natural language processing models and AI-powered features within the app.
+
+### Resources
+- Flaticon – Used for providing high-quality, customizable icons to enhance the user interface.
+
+### Special Thanks:
+
+- BizAI Team:  For conceptualizing and developing the prototype bank app.
+- Mentor: We were so hooked on the event that we forgot to ask his name. But thank you for sharing your expertise and ideas for our solution.
+
+### BizAI Team:
+
+- Researcher | Pitcher: [Joshua Allan Pagallaman](https://www.linkedin.com/in/joshuapagallaman/)
+- System Architect | Backend Developer: [Vash Puno](https://www.linkedin.com/in/vash-puno/)
+- Frontend | Backend Developer: [Mark Allen Bobadilla](https://www.linkedin.com/in/markallenbobadilla/)
+- UI/UX Designer: [Christine Joie Calapati](https://www.linkedin.com/in/christinejoie/)
