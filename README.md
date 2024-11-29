@@ -23,4 +23,4 @@ This prototype does not collect any personal data from the users. However, durin
 - __User Inputs:__ Any input provided by users, such as dummy account details or transaction information, is only used within the app session and is not stored long-term or shared with any third-party services.
 - __Security:__ Since this is a prototype, security measures such as encryption or secure transaction processing are not implemented. This app is intended solely for demonstration and educational purposes.
 
-Feel free to check its [LICENSE](https://github.com/mgachiee/PUP-Olivia-Rodrigo-Theme/blob/main/LICENSE) under [MIT License](https://choosealicense.com/licenses/mit/).
+Feel free to check its [LICENSE](https://github.com/mgachiee/BizAI/blob/main/LICENSE) under [MIT License](https://choosealicense.com/licenses/mit/).
