@@ -10,7 +10,7 @@ Micro, Small, and Medium Enterprises (MSMEs) frequently face difficulties access
   
 2. Install modules and packages.
 
-   - Click ```Download ZIP```
+   - Click the green button ```Code``` then ```Download ZIP```.
    - ```npm install```
    - ```npm install axios react-markdown remark-gfm```
    - ```pip install Flask flask-cors python-dotenv requests openai markdown pdfkit```
