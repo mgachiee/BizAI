@@ -50,31 +50,30 @@ We would like to express our gratitude to the following individuals, libraries, 
 - Mentor: We were so hooked on the event that we forgot to ask his name. But thank you for sharing your expertise and ideas for our solution.
 
 ### BizAI Team:
-<div style="width: 100%; padding: 20px; background-color: #f4f4f4; font-family: Arial, sans-serif; color: #333; min-height: 100vh;">
-    <div style="display: flex;  gap: 10px; flex-direction: column;">
-        <div style = "display: flex; align-items: center; gap: 10px;">
-            <a href="https://github.com/Jaushi">
-                <img src="https://avatars.githubusercontent.com/u/144474840" alt="Jaushi Github Icon" style="border-radius: 50%; width: 40px; height: 40px;">
-            </a>
-            <p>Researcher | Pitcher: <a href="https://www.linkedin.com/in/joshuapagallaman/">Joshua Allan Pagallaman</a></p>
-        </div>
-        <div style = "display: flex;align-items: center; gap: 10px;">
-            <a href="https://github.com/aint-vscp">
-                <img src="https://avatars.githubusercontent.com/u/136457226" alt="aint-vscp Github Icon" style="border-radius: 50%; width: 40px; height: 40px;">
-            </a>
-            <p>System Architect | Backend Developer: <a href="https://www.linkedin.com/in/vash-puno/">Vash Puno</a></p>
-        </div>
-        <div style = "display: flex;align-items: center; gap: 10px;">
-            <a href="https://github.com/mgachiee">
-                <img src="https://avatars.githubusercontent.com/u/119985091" alt="mgachiee Github Icon" style="border-radius: 50%; width: 40px; height: 40px;">
-            </a>
-            <p>Frontend | Backend Developer: <a href="https://www.linkedin.com/in/markallenbobadilla/">Mark Allen Bobadilla</a></p>
-        </div>
-        <div style = "display: flex;align-items: center; gap: 10px;">
-            <a href="https://www.linkedin.com/in/christinejoie/">
-                <img src="https://media.licdn.com/dms/image/v2/D5603AQFI30K8u9fRsw/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1721997056083?e=1738195200&v=beta&t=xQvle4K8ZlR1NgNrK3ndHarazSiyVVOO9KWxmgqyoMM" alt="Christine LinkedIn Photo" style="border-radius: 50%; width: 40px; height: 40px;">
-            </a>
-            <p>UI/UX Designer: <a href="https://www.linkedin.com/in/christinejoie/">Christine Joie Calapati</a></p>
-        </div>
+
+<div style="display: flex;  gap: 10px; flex-direction: column;">
+    <div style = "display: flex; align-items: center; gap: 10px;">
+        <a href="https://github.com/Jaushi">
+            <img src="https://avatars.githubusercontent.com/u/144474840" alt="Jaushi Github Icon" style="border-radius: 50%; width: 40px; height: 40px;">
+        </a>
+        <p>Researcher | Pitcher: <a href="https://www.linkedin.com/in/joshuapagallaman/">Joshua Allan Pagallaman</a></p>
+    </div>
+    <div style = "display: flex;align-items: center; gap: 10px;">
+        <a href="https://github.com/aint-vscp">
+            <img src="https://avatars.githubusercontent.com/u/136457226" alt="aint-vscp Github Icon" style="border-radius: 50%; width: 40px; height: 40px;">
+        </a>
+        <p>System Architect | Backend Developer: <a href="https://www.linkedin.com/in/vash-puno/">Vash Puno</a></p>
+    </div>
+    <div style = "display: flex;align-items: center; gap: 10px;">
+        <a href="https://github.com/mgachiee">
+            <img src="https://avatars.githubusercontent.com/u/119985091" alt="mgachiee Github Icon" style="border-radius: 50%; width: 40px; height: 40px;">
+        </a>
+        <p>Frontend | Backend Developer: <a href="https://www.linkedin.com/in/markallenbobadilla/">Mark Allen Bobadilla</a></p>
+    </div>
+    <div style = "display: flex;align-items: center; gap: 10px;">
+        <a href="https://www.linkedin.com/in/christinejoie/">
+            <img src="https://media.licdn.com/dms/image/v2/D5603AQFI30K8u9fRsw/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1721997056083?e=1738195200&v=beta&t=xQvle4K8ZlR1NgNrK3ndHarazSiyVVOO9KWxmgqyoMM" alt="Christine LinkedIn Photo" style="border-radius: 50%; width: 40px; height: 40px;">
+        </a>
+        <p>UI/UX Designer: <a href="https://www.linkedin.com/in/christinejoie/">Christine Joie Calapati</a></p>
     </div>
 </div>
