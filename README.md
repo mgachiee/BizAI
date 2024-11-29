@@ -51,7 +51,10 @@ We would like to express our gratitude to the following individuals, libraries, 
 
 ### BizAI Team:
 
-- Researcher | Pitcher: [Joshua Allan Pagallaman](https://www.linkedin.com/in/joshuapagallaman/)
-- System Architect | Backend Developer: [Vash Puno](https://www.linkedin.com/in/vash-puno/)
-- Frontend | Backend Developer: [Mark Allen Bobadilla](https://www.linkedin.com/in/markallenbobadilla/)
-- UI/UX Designer: [Christine Joie Calapati](https://www.linkedin.com/in/christinejoie/)
+<a href="https://github.com/Jaushi"><img src="https://avatars.githubusercontent.com/u/144474840" alt="Jaushi" style="border-radius: 50%; width: 40px; height: 40px; margin-bottom:-13px;"></a> Researcher | Pitcher: [Joshua Allan  Pagallaman](https://www.linkedin.com/in/joshuapagallaman/) 
+
+<a href="https://github.com/aint-vscp"><img src="https://avatars.githubusercontent.com/u/136457226" alt="aint-vscp" style="border-radius: 50%; width: 40px; height: 40px; margin-bottom:-13px;"></a> System Architect | Backend Developer: [Vash Puno](https://www.linkedin.com/in/vash-puno/)
+
+<a href="https://github.com/mgachiee"><img src="https://avatars.githubusercontent.com/u/119985091" alt="mgachiee" style="border-radius: 50%; width: 40px; height: 40px; margin-bottom:-13px;"></a> Frontend | Backend Developer: [Mark Allen Bobadilla](https://www.linkedin.com/in/markallenbobadilla/)
+
+UI/UX Designer: [Christine Joie Calapati](https://www.linkedin.com/in/christinejoie/)
