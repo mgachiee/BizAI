@@ -1,0 +1,235 @@
+/*
+  Author: Mark Allen G. Bobadilla
+  Date: November 2024
+  Github: mgachiee
+*/
+
+#navbar {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-color: #500000;
+  color: white;
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100vw;
+  height: 4rem;
+}
+
+#navbar img {
+  width: 2rem;
+  height: 2rem;
+  position: absolute;
+  left: 20px;
+}
+
+#navbar #bizai-logo {
+  height: 4rem;
+  width: auto;
+  position: absolute;
+  left: 50%;
+  transform: translateX(-50%);
+  margin-top: 5px;
+}
+
+#navbar h1 {
+  margin-right: 5px;
+  font-size: 2rem;
+  font-weight: bold;
+}
+
+#navbar h1 {
+  color: white;
+}
+
+#pop-up {
+  margin-top: 3.5rem;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  /* align-items: center; */
+  width: 96vw;
+  background-color: #500000;
+}
+
+#pop-up p {
+  padding: 5px 20px;
+  color: white;
+  font-weight: 600;
+}
+
+#pop-up p:hover {
+  background-color: rgba(255, 0, 0, 0.3);
+  cursor: pointer;
+}
+
+#input-holder {
+  bottom: 0;
+  left: 0;
+  position: fixed;
+  display: flex;
+  justify-content: space-evenly;
+  align-items: center;
+  background-color: white;
+  width: 100vw;
+  height: 5rem;
+}
+
+#input-holder img {
+  width: 1.3rem;
+  height: 1.3rem;
+}
+
+#input-holder input {
+  height: 3rem;
+  width: 75%;
+  padding: 5px 10px;
+  border-radius: 20px;
+  border: none;
+  background-color: #e3e3e3;
+  outline: none;
+  box-shadow: 0 0 0 2px transparent;
+  transition: box-shadow 0.3s ease;
+  font-size: 1rem;
+  color: rgb(37, 37, 37);
+}
+
+#input-holder input:focus {
+  box-shadow: 0 0 0 2px #B30303;
+}
+
+.image-preview {
+  max-width: 250px;
+  max-height: auto;
+  height: auto;
+  display: block;
+  margin: auto auto 1.2rem;
+}
+
+.message-wrapper-user {
+  display: flex;
+  justify-content: flex-end;
+  flex-direction: column;
+}
+
+.message-wrapper-bot {
+  display: flex;
+  justify-content: flex-start;
+  flex-direction: row;
+}
+
+#profile-icon {
+  width: 1.7rem;
+  height: 1.7rem;;
+}
+
+#profile-user-icon {
+  width: 1.5rem;
+  height: 1.5rem;;
+}
+
+/* .profile-icon-bot {
+  border: 1px solid #500000;
+  border-radius: 50%;
+  padding: 5px;
+} */
+
+.message {
+  max-width: 85%;
+  padding: 10px;
+  border-radius: 8px;
+  font-size: 14px;
+  margin-top: 5px;
+}
+
+.message-list {
+  margin-top: 4rem;
+  padding: 10px;
+  overflow: auto;
+  display: flex;
+  flex-direction: column;
+  max-height: 80%;
+  gap: 8px;
+}
+
+.image-attachment {
+  align-self: flex-end;
+  max-width: 150px;
+  height: auto;
+}
+
+.user-message {
+  align-self: flex-end;
+  background-color: #B30303;
+  color: white;
+  border-radius: 15px 15px 0 15px;
+  padding: 2px 10px;
+  width: fit-content;
+}
+
+.bot-message {
+  align-self: flex-start;
+  background-color: #ffffff;
+  color: black;
+  border-radius: 15px 15px 15px 0;
+  padding: 2px 10px;
+  width: fit-content;
+}
+
+.options-wrapper {
+  margin-left: 30px;
+  width: 100%;
+  max-width: 90%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 10px;
+  flex-wrap: wrap;
+}
+
+.option {
+  width: 120px;
+  padding: 0px 20px;
+  max-height: 2.5rem;
+  border-radius: 20px;
+  background-image: linear-gradient(90deg, #500000 0%, #B30303 100%);
+  color: white;
+  font-weight: 600;
+  cursor: pointer;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.yes-no-option {
+  width: 250px;
+}
+
+.download-url {
+  margin-left: 2.5rem;
+  color: #500000;
+}
+
+.option p {
+  font-size: 12px;
+  text-align: center;
+}
+
+.loader {
+  width: 40px;
+  margin-bottom: 3px;
+  aspect-ratio: 4;
+  --_g: no-repeat radial-gradient(circle closest-side,#000 90%,#0000);
+  background: 
+    var(--_g) 0%   50%,
+    var(--_g) 50%  50%,
+    var(--_g) 100% 50%;
+  background-size: calc(100%/3) 100%;
+  animation: l7 1s infinite linear;
+}
+@keyframes l7 {
+    33%{background-size:calc(100%/3) 0%  ,calc(100%/3) 100%,calc(100%/3) 100%}
+    50%{background-size:calc(100%/3) 100%,calc(100%/3) 0%  ,calc(100%/3) 100%}
+    66%{background-size:calc(100%/3) 100%,calc(100%/3) 100%,calc(100%/3) 0%  }
+}
