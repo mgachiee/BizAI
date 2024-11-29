@@ -20,5 +20,7 @@ Micro, Small, and Medium Enterprises (MSMEs) frequently face difficulties access
 
 This prototype does not collect any personal data from the users. However, during the use of this app, certain user interactions (e.g., inputs for test prompts, account information, etc.) may be temporarily stored for demonstration purposes only. No real banking data or sensitive information is collected, stored, or processed.
 
-- User Inputs: Any input provided by users, such as dummy account details or transaction information, is only used within the app session and is not stored long-term or shared with any third-party services.
-- Security: Since this is a prototype, security measures such as encryption or secure transaction processing are not implemented. This app is intended solely for demonstration and educational purposes.
+- __User Inputs:__ Any input provided by users, such as dummy account details or transaction information, is only used within the app session and is not stored long-term or shared with any third-party services.
+- __Security:__ Since this is a prototype, security measures such as encryption or secure transaction processing are not implemented. This app is intended solely for demonstration and educational purposes.
+
+Feel free to check its [LICENSE](https://github.com/mgachiee/PUP-Olivia-Rodrigo-Theme/blob/main/LICENSE) under [MIT License](https://choosealicense.com/licenses/mit/).
