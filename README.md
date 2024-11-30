@@ -2,6 +2,10 @@
 
 Micro, Small, and Medium Enterprises (MSMEs) frequently face difficulties accessing loans due to limited financial history and perceived risk by lenders. This paper proposes a GenAI-powered chatbot to address these challenges by providing tailored insights into loan options, financial planning, and cash flow management. Built on Azure’s AI infrastructure, this chatbot offers interactive assistance for loan eligibility, automated documentation, and personalized advice, aiming to improve loan accessibility and enhance financial literacy. With measurable impacts on loan accessibility, interest rates, and revenue growth, this solution supports MSME growth, thereby contributing to economic development.
 
+## Snapshot of the prototype
+
+![BizAI Snapshot](https://scontent.fmnl34-1.fna.fbcdn.net/v/t39.30808-6/468326696_122117166116576075_3910117658229457964_n.jpg?_nc_cat=106&ccb=1-7&_nc_sid=127cfc&_nc_eui2=AeGQ3_oFmXLngrACj8y0QlvEHwckyQPd6lsfByTJA93qW3uC0cUzBPuia5qrIA23hTjLF_m1drcTBdVC-0zS1PAV&_nc_ohc=79LXZEvmwwcQ7kNvgG8DTdJ&_nc_zt=23&_nc_ht=scontent.fmnl34-1.fna&_nc_gid=ApHaJeESlf_AwE1WpE6wMfW&oh=00_AYD1BiusQiVYHujZrRC4iYyOJ7K0qa94RR8_-8ChBH945w&oe=675038F7)
+
 ## Installation and Usage
 
 _Reminder: This is a fast-paced development, and the app will run on a browser. The app's UI only works for mobile phones like the **iPhone XR**, **iPhone 14 Pro Max**, **Samsung Galaxy S20 Ultra**, and other devices with same dimensions as the mentioned devices._
