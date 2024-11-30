@@ -78,27 +78,27 @@ We would like to express our gratitude to the following individuals, libraries, 
 
 <div style="display: flex;  gap: 10px; flex-direction: column;">
     <div style = "display: flex; align-items: center; gap: 10px;">
-        <a href="https://github.com/Jaushi">
+        <a href="https://github.com/Jaushi" target="_blank">
             <img src="https://avatars.githubusercontent.com/u/144474840" alt="Jaushi Github Icon" style="border-radius: 50%; width: 40px; height: 40px;">
         </a>
-        <p>Researcher | Pitcher:</br> <a href="https://www.linkedin.com/in/joshuapagallaman/">Joshua Allan Pagallaman</a></p>
+        <p>Researcher | Pitcher:</br> <a href="https://www.linkedin.com/in/joshuapagallaman/" target="_blank">Joshua Allan Pagallaman</a></p>
     </div>
     <div style = "display: flex;align-items: center; gap: 10px;">
-        <a href="https://github.com/aint-vscp">
+        <a href="https://github.com/aint-vscp" target="_blank">
             <img src="https://avatars.githubusercontent.com/u/136457226" alt="aint-vscp Github Icon" style="border-radius: 50%; width: 40px; height: 40px;">
         </a>
-        <p>System Architect | Backend Developer:</br> <a href="https://www.linkedin.com/in/vash-puno/">Vash Puno</a></p>
+        <p>System Architect | Backend Developer:</br> <a href="https://www.linkedin.com/in/vash-puno/" target="_blank">Vash Puno</a></p>
     </div>
     <div style = "display: flex;align-items: center; gap: 10px;">
-        <a href="https://github.com/mgachiee">
+        <a href="https://github.com/mgachiee" target="_blank">
             <img src="https://avatars.githubusercontent.com/u/119985091" alt="mgachiee Github Icon" style="border-radius: 50%; width: 40px; height: 40px;">
         </a>
-        <p>Frontend | Backend Developer:</br> <a href="https://www.linkedin.com/in/markallenbobadilla/">Mark Allen Bobadilla</a></p>
+        <p>Frontend | Backend Developer:</br> <a href="https://www.linkedin.com/in/markallenbobadilla/" target="_blank">Mark Allen Bobadilla</a></p>
     </div>
     <div style = "display: flex;align-items: center; gap: 10px;">
-        <a href="https://www.linkedin.com/in/christinejoie/">
+        <a href="https://www.linkedin.com/in/christinejoie/" target="_blank">
             <img src="https://media.licdn.com/dms/image/v2/D5603AQFI30K8u9fRsw/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1721997056083?e=1738195200&v=beta&t=xQvle4K8ZlR1NgNrK3ndHarazSiyVVOO9KWxmgqyoMM" alt="Christine LinkedIn Photo" style="border-radius: 50%; width: 40px; height: 40px;">
         </a>
-        <p>UI/UX Designer:</br> <a href="https://www.linkedin.com/in/christinejoie/">Christine Joie Calapati</a></p>
+        <p>UI/UX Designer:</br> <a href="https://www.linkedin.com/in/christinejoie/" target="_blank">Christine Joie Calapati</a></p>
     </div>
 </div>
