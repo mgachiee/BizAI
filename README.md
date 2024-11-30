@@ -4,6 +4,8 @@ Micro, Small, and Medium Enterprises (MSMEs) frequently face difficulties access
 
 ## Installation and Usage
 
+_Reminder: This is a fast-paced development, and the app will run on a browser. The app's UI only works for mobile phones like the **iPhone XR**, **iPhone 14 Pro Max**, **Samsung Galaxy S20 Ultra**, and other devices with same dimensions as the mentioned devices._
+
 1. Create your project directory.
     
     - ```npm create vite@latest react-project-name```
@@ -15,6 +17,25 @@ Micro, Small, and Medium Enterprises (MSMEs) frequently face difficulties access
    - ```npm install axios react-markdown remark-gfm```
    - ```pip install Flask flask-cors python-dotenv requests openai markdown pdfkit```
    - For windows click the link: [wkhtmltopdf installer](https://wkhtmltopdf.org/downloads.html) or ```sudo apt-get install wkhtmltopdf```
+
+3. Prepare environment variables.
+
+   ```
+    LLAMA_API_KEY="<API_KEY_HERE>"
+    GEMINI_API_KEY="<API_KEY_HERE>"
+    ENDPOINT_URL="<URL_HERE>"
+    DEPLOYMENT_NAME="<MODEL_NAME>"
+    SEARCH_ENDPOINT="<SEARCH_ENDPOINT_URL>"
+    SEARCH_KEY="<SEARCH_KEY>"
+    SUBSCRIPTION_KEY="<SUBSCRIPTION_KEY>"
+    LOAN_BLOB_URL="<BLOB_STORAGE_URL_FOR_DUMMY_DATA>"
+    ACC_STATEMENT_BLOB_URL="<BLOB_STORAGE_URL_FOR_DUMMY_DATA>"
+   ```
+
+4. Run locally.
+
+   - **project-name/src** ```npm run dev```
+   - **project-name/src/backend/main.py** file ```python main.py```
 
 ## Privacy and License
 
